@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-practice-redux/static/css/main.7acaea2f.css",
-    "main.js": "/goit-practice-redux/static/js/main.978140c6.js",
+    "main.js": "/goit-practice-redux/static/js/main.3d537993.js",
     "index.html": "/goit-practice-redux/index.html",
     "main.7acaea2f.css.map": "/goit-practice-redux/static/css/main.7acaea2f.css.map",
-    "main.978140c6.js.map": "/goit-practice-redux/static/js/main.978140c6.js.map"
+    "main.3d537993.js.map": "/goit-practice-redux/static/js/main.3d537993.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.978140c6.js"
+    "static/js/main.3d537993.js"
   ]
 }
