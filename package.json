@@ -1,8 +1,8 @@
 {
-  "name": "goit-practice-redux",
+  "name": "practice-life-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlexeyKiselyov.github.io/goit-practice-redux/",
+  "homepage": "https://AlexeyKiselyov.github.io/practice-life-redux/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "@reduxjs/toolkit": "^1.8.6",
